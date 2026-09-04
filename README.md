@@ -2,7 +2,7 @@
 
 **AI Builder & Consultant**
 
-- ✍️ **[Substack](https://bsitu.substack.com/)** — Thoughts on navigating the working world, practical AI workflows, and building tools in public.
+- ✍️ **[Substack](https://bsitu.substack.com/)** — Tactical essays on practical AI use, enterprise AI governance, autonomous agent workflows, and building as a non-coder.
 - 💼 **[LinkedIn](https://www.linkedin.com/in/brandonsitu)** — Professional background, enterprise AI consulting, and career history.
 
 ---
@@ -51,4 +51,5 @@ No AI Coding Activity Tracked This Week
 
  Last Updated on 04/09/2026 16:53:16 UTC
 <!--END_SECTION:waka-->
+
 
