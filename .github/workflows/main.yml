@@ -12,6 +12,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Pre-warm WakaTime Cache
+        run: |
+          curl -sL "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=${{ secrets.WAKATIME_API_KEY }}" > /dev/null
+          curl -sL "https://wakatime.com/api/v1/users/current/stats/all_time?api_key=${{ secrets.WAKATIME_API_KEY }}" > /dev/null
+          sleep 5
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
