@@ -41,39 +41,38 @@ Sunday                   53 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 🔥 Editors: 
-Claude Code              18 hrs 33 mins      ██████████████░░░░░░░░░░░   57.13 % 
-Antigravity Desktop      7 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-VS Code                  5 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Antigravity CLI          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Claude Code              18 hrs 28 mins      ████████████████░░░░░░░░░   62.90 % 
+VS Code                  5 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Antigravity Desktop      5 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Antigravity CLI          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 28 mins (90.76%)
+⏱ AI Coding Time: 26 hrs 20 mins (89.63%)
 
-✍️ 18,023 lines written by AI, 14 lines written by hand (99.92% AI-written)
+✍️ 18,053 lines written by AI, 14 lines written by hand (99.92% AI-written)
 
-🔤 13,365,490 Input Tokens, 2,189,709 Output Tokens
+🔤 11,970,979 Input Tokens, 2,234,986 Output Tokens
 
-💵 $290.62 Estimated AI Cost This Week
+💵 $280.59 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 482 AI Prompts
+🧠 71 AI Sessions, 421 AI Prompts
 
-Fable                    13,767 lines        ███████████████████░░░░░░   75.41 % 
-Opus                     4,460 lines         ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+Fable                    15,415 lines        █████████████████████░░░░   84.62 % 
+Opus                     2,771 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 Sonnet                   30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 1,962 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 2,087 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.33% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/09/2026 12:29:18 UTC
+ Last Updated on 14/09/2026 13:33:14 UTC
 <!--END_SECTION:waka-->
 
 
