@@ -41,37 +41,37 @@ Sunday                   53 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 🔥 Editors: 
-Claude Code              12 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   36.66 % 
-Antigravity Desktop      10 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   32.57 % 
-VS Code                  10 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   30.77 % 
+VS Code                  9 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.13 % 
+Antigravity Desktop      8 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.00 % 
+Claude Code              7 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 1 min (86.48%)
+⏱ AI Coding Time: 20 hrs 18 mins (81.74%)
 
-✍️ 18,541 lines written by AI, 59 lines written by hand (99.68% AI-written)
+✍️ 13,182 lines written by AI, 58 lines written by hand (99.56% AI-written)
 
-🔤 5,743,086 Input Tokens, 1,410,562 Output Tokens
+🔤 4,049,251 Input Tokens, 903,628 Output Tokens
 
-💵 $209.70 Estimated AI Cost This Week
+💵 $150.42 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 320 AI Prompts
+🧠 26 AI Sessions, 229 AI Prompts
 
-Opus                     10,619 lines        ██████████████░░░░░░░░░░░   56.74 % 
-Fable                    8,079 lines         ███████████░░░░░░░░░░░░░░   43.17 % 
-Sonnet                   18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Opus                     7,365 lines         █████████████░░░░░░░░░░░░   53.97 % 
+Fable                    6,280 lines         ████████████░░░░░░░░░░░░░   46.02 % 
+Sonnet                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.68% of written lines came from AI
-📚 Verbose Prompter — average 1,569 characters per prompt
+🤖 AI-Driven — 99.56% of written lines came from AI
+📚 Verbose Prompter — average 1,578 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.49% of changed lines were hand-edited
+🚀 High AI Trust — 0.69% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 12:29:28 UTC
+ Last Updated on 24/09/2026 12:28:36 UTC
 <!--END_SECTION:waka-->
 
 
