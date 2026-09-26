@@ -41,37 +41,37 @@ Sunday                   53 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 🔥 Editors: 
-VS Code                  9 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.59 % 
-Claude Code              7 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.74 % 
-Antigravity Desktop      7 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+VS Code                  9 hrs 5 mins        ███████████░░░░░░░░░░░░░░   43.69 % 
+Claude Code              7 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.02 % 
+Antigravity Desktop      4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 22 mins (81.03%)
+⏱ AI Coding Time: 16 hrs 24 mins (78.86%)
 
-✍️ 13,556 lines written by AI, 58 lines written by hand (99.57% AI-written)
+✍️ 13,517 lines written by AI, 58 lines written by hand (99.57% AI-written)
 
-🔤 4,128,774 Input Tokens, 926,784 Output Tokens
+🔤 4,093,016 Input Tokens, 888,072 Output Tokens
 
-💵 $152.09 Estimated AI Cost This Week
+💵 $149.04 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 211 AI Prompts
+🧠 19 AI Sessions, 183 AI Prompts
 
-Opus                     7,739 lines         ██████████████░░░░░░░░░░░   55.20 % 
-Fable                    6,280 lines         ███████████░░░░░░░░░░░░░░   44.79 % 
+Opus                     7,739 lines         ██████████████░░░░░░░░░░░   55.40 % 
+Fable                    6,229 lines         ███████████░░░░░░░░░░░░░░   44.59 % 
 Sonnet                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.57% of written lines came from AI
-📚 Verbose Prompter — average 1,670 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.67% of changed lines were hand-edited
+📚 Verbose Prompter — average 1,871 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.68% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 12:29:51 UTC
+ Last Updated on 26/09/2026 12:00:45 UTC
 <!--END_SECTION:waka-->
 
 
