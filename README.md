@@ -8,9 +8,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-179%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -41,37 +41,37 @@ Sunday                   53 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 🔥 Editors: 
-VS Code                  9 hrs 5 mins        ███████████░░░░░░░░░░░░░░   43.69 % 
-Claude Code              7 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.02 % 
-Antigravity Desktop      4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+VS Code                  9 hrs 7 mins        ███████████░░░░░░░░░░░░░░   42.25 % 
+Claude Code              8 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.45 % 
+Antigravity Desktop      4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 24 mins (78.86%)
+⏱ AI Coding Time: 17 hrs 12 mins (79.64%)
 
-✍️ 13,517 lines written by AI, 58 lines written by hand (99.57% AI-written)
+✍️ 11,879 lines written by AI, 58 lines written by hand (99.51% AI-written)
 
-🔤 4,093,016 Input Tokens, 888,072 Output Tokens
+🔤 4,836,558 Input Tokens, 922,477 Output Tokens
 
-💵 $149.04 Estimated AI Cost This Week
+💵 $166.10 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 183 AI Prompts
+🧠 18 AI Sessions, 187 AI Prompts
 
-Opus                     7,739 lines         ██████████████░░░░░░░░░░░   55.40 % 
-Fable                    6,229 lines         ███████████░░░░░░░░░░░░░░   44.59 % 
+Opus                     8,435 lines         █████████████████░░░░░░░░   66.51 % 
+Fable                    4,246 lines         ████████░░░░░░░░░░░░░░░░░   33.48 % 
 Sonnet                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.57% of written lines came from AI
-📚 Verbose Prompter — average 1,871 characters per prompt
+🤖 AI-Driven — 99.51% of written lines came from AI
+📚 Verbose Prompter — average 1,698 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.68% of changed lines were hand-edited
+🚀 High AI Trust — 0.75% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/09/2026 12:00:45 UTC
+ Last Updated on 27/09/2026 12:38:13 UTC
 <!--END_SECTION:waka-->
 
 
