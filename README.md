@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-183%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-183%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -41,35 +41,35 @@ Sunday                   53 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 🔥 Editors: 
-Claude Code              3 hrs 49 mins       ████████████████████████░   97.27 % 
-VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Claude Code              4 hrs 2 mins        ████████████████████████░   97.42 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 55 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 8 mins (100.0%)
 
 ✍️ 3,193 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,686,739 Input Tokens, 468,161 Output Tokens
+🔤 3,730,685 Input Tokens, 478,785 Output Tokens
 
-💵 $51.63 Estimated AI Cost This Week
+💵 $52.13 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 35 AI Prompts
+🧠 13 AI Sessions, 41 AI Prompts
 
 Opus                     1,888 lines         ██████████████░░░░░░░░░░░   55.40 % 
 Fable                    1,520 lines         ███████████░░░░░░░░░░░░░░   44.60 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,404 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 1,231 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 13:14:40 UTC
+ Last Updated on 01/10/2026 14:05:43 UTC
 <!--END_SECTION:waka-->
 
 
