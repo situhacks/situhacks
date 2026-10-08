@@ -41,22 +41,22 @@ Sunday                   53 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 🔥 Editors: 
-Claude Code              2 hrs 1 min         ███████████████████████░░   93.46 % 
-VS Code                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Claude Code              1 hr 47 mins        ███████████████████████░░   92.69 % 
+VS Code                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 9 mins (100.0%)
+⏱ AI Coding Time: 1 hr 56 mins (100.0%)
 
 ✍️ 485 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 900,937 Input Tokens, 219,919 Output Tokens
+🔤 856,991 Input Tokens, 209,295 Output Tokens
 
-💵 $27.41 Estimated AI Cost This Week
+💵 $26.91 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 37 AI Prompts
+🧠 11 AI Sessions, 31 AI Prompts
 
 Opus                     286 lines           ████████████░░░░░░░░░░░░░   48.07 % 
 Fable                    196 lines           ████████░░░░░░░░░░░░░░░░░   32.94 % 
@@ -64,13 +64,13 @@ Sonnet                   113 lines           █████░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 945 characters per prompt
+📄 Detailed Prompter — average 1,086 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/10/2026 14:08:10 UTC
+ Last Updated on 08/10/2026 14:18:31 UTC
 <!--END_SECTION:waka-->
 
 
