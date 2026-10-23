@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-236%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-239%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -41,22 +41,22 @@ Sunday                   53 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 🔥 Editors: 
-Claude Code              27 hrs 56 mins      ████████████████████████░   96.57 % 
-VS Code                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Claude Code              31 hrs 36 mins      ████████████████████████░   96.96 % 
+VS Code                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 26 mins (98.28%)
+⏱ AI Coding Time: 32 hrs 5 mins (98.47%)
 
 ✍️ 3,305 lines written by AI, 2 lines written by hand (99.94% AI-written)
 
-🔤 13,101,147 Input Tokens, 1,548,114 Output Tokens
+🔤 16,704,728 Input Tokens, 1,861,061 Output Tokens
 
-💵 $235.36 Estimated AI Cost This Week
+💵 $282.76 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 151 AI Prompts
+🧠 19 AI Sessions, 179 AI Prompts
 
 Opus                     3,089 lines         ████████████████████░░░░░   78.18 % 
 Fable                    828 lines           █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
@@ -64,13 +64,13 @@ Sonnet                   34 lines            ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 2,023 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 1,877 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/10/2026 12:42:44 UTC
+ Last Updated on 23/10/2026 12:20:22 UTC
 <!--END_SECTION:waka-->
 
 
